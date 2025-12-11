@@ -1,4 +1,4 @@
-# Nom du Projet (ex: projet1- Gestion Hospitalière)
+# Nom du Projet (ex: projet1- plate-forme d'événements et d'inscriptions)
 
 <!-- Mettez un court slogan ou une description en une phrase ici -->
 > Application Backoffice de gestion réalisée dans le cadre du module Dévelopement web.
